@@ -11,6 +11,6 @@
 
 ##
   <img align="center" alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
- ![Snake animation](https://github.com/ielmoreno/ielmoreno/blob/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/ielmoreno/ielmoreno/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ielmoreno/ielmoreno/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
   
