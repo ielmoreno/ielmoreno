@@ -11,5 +11,6 @@
 
 ##
   <img align="center" alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  [![generate animation](https://github.com/ielmoreno/ielmoreno/actions/workflows/cobrinha.yml/badge.svg(https://github.com/ielmoreno/ielmoreno/actions/workflows/cobrinha.yml)
   
   
