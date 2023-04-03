@@ -1,6 +1,5 @@
 ### Prazer, sou o Gabriel Moreno
 ##
-- 📖 Estudande de Java
 - 👨🏼‍💻 Estudande de ADS no IFSP/Caraguatatuba
 
 
