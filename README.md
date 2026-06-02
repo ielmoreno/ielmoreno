@@ -13,8 +13,9 @@ Trabalho atualmente com o desenvolvimento de aplicações Front-end e Mobile, on
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/ielmoreno">
-  <img height="170em" src="http://github-readme-stats.shion.dev/api?username=ielmoreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="http://github-readme-stats.shion.dev/api/top-langs/?username=ielmoreno&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ielmoreno&theme=github-dark-blue&locale=pt_BR&short_numbers=true&card_height=194" alt="GitHub Streak" />
+  <!-- <img height="170em" src="http://github-readme-stats.vercel.app/api?username=ielmoreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ielmoreno&layout=compact&langs_count=7&theme=github_dark"/> -->
 </div>
   <div align="center">
   
