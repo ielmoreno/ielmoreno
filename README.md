@@ -1,5 +1,5 @@
 # 💬 Olá
-Me chamo Gabriel Moreno, um apaixonado pela área de t.i. e tudo o que ela pode proporcionar. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal (IFSP) e trabalho com programação na empresa Bittencourt Tecnologia, na maior parte do tempo com projetos em Front-End e Mobile, o que me permite trabalhar com varias tecnologias diferentes e aprender cada vez mais a respeito da área de desenvolvimento de sistemas.
+Me chamo Gabriel Moreno, um apaixonado pela área de t.i. e tudo o que ela pode proporcionar. Atualmente sou desenvolvedor Fullstack pleno na empresa Nexbox.
 
 # 👨🏼‍💻 Experiencia:
 Trabalho atualmente com o desenvolvimento de aplicações Front-end e Mobile, onde me permitiu aprimorar meu conhecimento de programação e resolução de problemas de formas criativas e desafiadoras, com integrações de sistemas locais e remotos por uso de API. Tenho experiencia com as estruturas HTML, CSS, JavaScript, o que por sua vez me trouxe facilidade em atuar com bibliotecas como React e React Native para realizar meus projetos e assim obtive um conhecimento significativo a respeito comunicação com banco de dados. Pretendo unir todo este conhecimento de Front-end que tenho adquirido ao longo do tempo que programo juntamente com o conhecimento que venho estudando na faculdade e particularmente para ter a expertise necessária do funcionamento de um sistema de forma completa.
@@ -13,8 +13,8 @@ Trabalho atualmente com o desenvolvimento de aplicações Front-end e Mobile, on
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/ielmoreno">
-  <img height="170em" src="http://github-readme-stats.vercel.app/api?username=ielmoreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ielmoreno&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" src="http://github-readme-stats.shion.dev/api?username=ielmoreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="http://github-readme-stats.shion.dev/api/top-langs/?username=ielmoreno&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div align="center">
   
